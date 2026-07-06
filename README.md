@@ -46,28 +46,28 @@ O projeto foi desenvolvido para praticar conceitos fundamentais de Programação
 
 📂 Estrutura do Projeto
 
-src
-│
-├── app
-│   └── Main.java
-│
-├── exception
-│   ├── LivroIndisponivelException.java
-│   ├── LivroNaoEncontradoException.java
-│   └── UsuarioNaoEncontradoException.java
-│
-├── model
-│   ├── Livro.java
-│   ├── Usuario.java
-│   └── Emprestimo.java
-│
-├── service
-│   ├── ArquivoService.java
-│   ├── BibliotecaService.java
-│   └── DadosBiblioteca.java
-│
-└── util
-    └── Menu.java
+    src
+    │
+    ├── app
+    │   └── Main.java
+    │
+    ├── exception
+    │   ├── LivroIndisponivelException.java
+    │   ├── LivroNaoEncontradoException.java
+    │   └── UsuarioNaoEncontradoException.java
+    │
+    ├── model
+    │   ├── Livro.java
+    │   ├── Usuario.java
+    │   └── Emprestimo.java
+    │
+    ├── service
+    │   ├── ArquivoService.java
+    │   ├── BibliotecaService.java
+    │   └── DadosBiblioteca.java
+    │
+    └── util
+        └── Menu.java
 
     
 ▶️ Como executar
